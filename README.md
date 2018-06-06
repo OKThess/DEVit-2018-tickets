@@ -8,3 +8,6 @@ OK!Thess partners with DEVit and offers tickets to its hosted teams. State your 
 | :heavy_check_mark:|Modern easy IoT with JS, Docker & Resin.io  &&   The World is our Interface && Evolving Patterns in React && Machine Learning and Deep Learning in Python|  Konstantinos Alexoglou |Loceye|
 | :heavy_check_mark:|Machine Learning and Deep Learning in Python, Hyperledger Framework – Bringing blockchain technologies closer to tomorrow's businesses, Delivering Serverless Experience | Paschos Nikolaos |Loceye|
 | :heavy_check_mark:|The World is our Interface, Evolving Patterns in React, Attractive Things Work Better | Raptis Dimitris |Loceye|
+| :heavy_check_mark:|Modern easy IoT with JS, Docker & Resin.io  &&   The World is our Interface && Evolving Patterns in React && Machine Learning and Deep Learning in Python|  Mamalakis Evagelos |ReserVit|
+| :heavy_check_mark:|Modern easy IoT with JS, Docker & Resin.io  &&   The World is our Interface && Evolving Patterns in React && Machine Learning and Deep Learning in Python|  Evaggelou Alexandos |ReserVit|
+
